@@ -1,0 +1,12 @@
+{
+  "name": "HiCraft",
+  "version": "1.0.0",
+  "description": "HiCraft",
+  "author": "",
+  "repository": "",
+  "devDependencies": {
+    "ethereumjs-testrpc": "^4.1.3",
+    "solc": "^0.4.25",
+    "web3": "^0.20.1"
+  }
+}
